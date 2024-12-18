@@ -8,7 +8,7 @@ import winreg
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 from comtypes import COMError, CoInitialize, CoUninitialize
 import keyboard
-
+###hhjjg
 stop_flag = threading.Event()
 
 def hide_console():
